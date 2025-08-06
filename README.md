@@ -122,4 +122,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ⭐️ Show Your Support
 
-If you like this project, give it a ⭐️ on GitHub and connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)!
+If you like this project, give it a ⭐️ on GitHub and connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/neshath-ranjan-v/))!
